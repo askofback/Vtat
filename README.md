@@ -13,7 +13,7 @@ A simple ACL system<br>
   ],
   "other": [
     "user:other"
-  ],
+  ]
 }
 }
 ```
